@@ -1,0 +1,1 @@
+The goal of this project is to explore the capabilities and performance, measured using accuracy, of Fully Connected Neural Networks and Convolutional Neural Networks, by tuning hyperparameters, optimizers and hidden layers.
